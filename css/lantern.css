@@ -224,14 +224,14 @@
 }
 
 
-/* 自定义背景图片      background: url(https://img95.699pic.com/photo/40173/6564.jpg_wh860.jpg) no-repeat;*/
+/* 自定义背景图片   */
 
 .d2::after {
     top: -8px;
     right: 51px;
     width: 75px;
     border-radius: 57px/89px;
-
+    background: url(https://img95.699pic.com/photo/40173/6564.jpg_wh860.jpg) no-repeat;
     background-position: center;
     background-size: 105px auto;
 }
